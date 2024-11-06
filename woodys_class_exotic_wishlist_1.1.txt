@@ -88,6 +88,9 @@ dimwishlist:item=266021826&perks=3573490510,3573490501
 // 1.1 - Titan - Ability Spam & Heal - Inmost + Lupi
 dimwishlist:item=266021826&perks=1476923953,3573490501
 
+// 1.1 - Titan - Ability Spam & Jolt - Inmost + Contact
+dimwishlist:item=266021826&perks=1476923953,3573490504
+
 // Warlock - Inmost + Harmony
 dimwishlist:item=2273643087&perks=1476923953,183430254
 
