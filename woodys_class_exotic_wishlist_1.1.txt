@@ -1,0 +1,118 @@
+title:Woodys Class Exotic List
+description:Yeah I know its not meta
+
+// Shadow Price - Main PVE Voltshot AR - Name ()
+//notes: This is a description
+dimwishlist:item=2322926844&perks=1482024992,3230963543,1583705720,3523296417
+
+
+// Hunter All Round
+//Ability regen from inmost + super damage from star-eater
+dimwishlist:item=2809120022&perks=1476923953,1476923955
+
+
+// Warlock All Round
+//Ability regen from inmost + super damage from star-eater
+dimwishlist:item=2273643087&perks=1476923953,1476923955
+
+
+// Titan All Round
+//Ability regen from inmost + super damage from star-eater
+dimwishlist:item=266021826&perks=1476923953,1476923955
+
+
+// Hunter - Foetracer + Star-Eater
+dimwishlist:item=2809120022&perks=3751917997,1476923955
+
+
+// Hunter - Inmost Light + Crytarachne
+dimwishlist:item=2809120022&perks=1476923953,3751917994
+
+
+// Hunter - Galanor + Star-Eater
+dimwishlist:item=2809120022&perks=3751917998,1476923955
+
+
+// Hunter - Caliban + Liar
+dimwishlist:item=2809120022&perks=3751917996,3751917992
+
+
+// Hunter - Galanor + Gyrfalcon
+dimwishlist:item=2809120022&perks=3751917998,3751917993
+
+
+// Hunter - Assassin + Liar
+dimwishlist:item=2809120022&perks=1476923952,3751917992
+
+
+// Hunter - Inmost Light + Gyrfalcon
+dimwishlist:item=2809120022&perks=1476923953,3751917993
+
+
+// Hunter - Renewal + Crytarachne
+// Super DR Useful?
+dimwishlist:item=2809120022&perks=3751917995,3751917994
+
+
+// Titan - Eternal + Star-Eater
+dimwishlist:item=266021826&perks=3573490511,1476923955
+
+
+// Titan - Inmost + Syntho
+dimwishlist:item=266021826&perks=1476923953,1476923956
+
+
+// Titan - Inmost + Contact
+dimwishlist:item=266021826&perks=1476923953,3573490504
+
+
+// Titan - Inmost + Scars
+dimwishlist:item=266021826&perks=1476923953,3573490507
+
+
+// Titan - Barricade Meme - Abeyant + Horn
+dimwishlist:item=266021826&perks=3573490510,3573490506
+
+// 1.1 - Titan - Tank - Bear + Scars
+dimwishlist:item=266021826&perks=3573490505,3573490507
+
+// 1.1 - Titan - Tank + Health - Bear + Lupi
+dimwishlist:item=266021826&perks=3573490505,3573490501
+
+// 1.1 - Titan - Ice Heal - Hoarfrost + Lupi
+dimwishlist:item=266021826&perks=3573490508,3573490501
+
+// 1.1 - Titan - Dengr Heal - Abeyant + Lupi
+dimwishlist:item=266021826&perks=3573490510,3573490501
+
+
+// Warlock - Inmost + Harmony
+dimwishlist:item=2273643087&perks=1476923953,183430254
+
+
+// Warlock - Inmost + Verity
+dimwishlist:item=2273643087&perks=1476923953,1476923957
+
+
+// Warlock - Inmost + Sntho
+dimwishlist:item=2273643087&perks=1476923953,1476923956
+
+
+// Warlock - Apotheosis + Star-Eater
+dimwishlist:item=2273643087&perks=183430250,1476923956
+
+
+// Warlock - Assassin + Syntho
+dimwishlist:item=2273643087&perks=1476923952,1476923956
+
+
+// Warlock - Osmio + Star-Eater
+dimwishlist:item=2273643087&perks=183430253,1476923956
+
+
+// Warlock - Filaments + Vesper 
+dimwishlist:item=2273643087&perks=183430255,183430251
+
+
+// Warlock - thing + Star-Eater
+dimwishlist:item=2273643087&perks=183430255,183430249
